@@ -1,0 +1,2 @@
+# Covid-19-Dataset-Analysis
+I have taken a small dataset of covid 19 just for understanding purpose. We have to work on original datset which contains 19000 rows.  The data used here is till 29-April-2021 &amp; has record as on 29-April-2021.  The data available as a csv file, downloaded from Kaggle.I will analyze this dataset using Pandas Dataframe.  Here, random sets of questions and instructions are given as an example for the practice &amp; learning purpose.
